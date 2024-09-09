@@ -1,0 +1,179 @@
+
+.main_seaction{
+    width: 850px;
+    background-color: rgba(254, 255, 255, 0.341);
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+   border-radius: 20px;
+   border: 4px solid black;
+    
+    
+
+}
+
+.heading{
+    text-align: center;
+    font-size: 40px;
+    
+}
+.img{
+    width: 150px;
+    border-radius: 100px;
+}
+.heading_Section{
+    display: flex;
+
+}
+.Right_Wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 300px;
+    
+}
+
+.imgtext1{
+    padding-left: 00px;
+}
+.form_main_1{
+    display: flex;
+}
+#FullName{
+    width: 400px;
+    height: 25px;
+}
+.form2{
+    padding-left: 50px;
+}
+#DateofBirth{
+    width: 250px;
+    height: 28px;
+}
+.form_main_2{
+    display: flex;
+}
+#Phone{
+    width: 325px;
+    height: 25px;
+}
+.form4{
+    padding-left: 50px;
+}
+#email{
+    width: 325px;
+    height: 25px;
+}
+#tickets{
+    height: 25px;
+}
+.form_main_2{
+    margin-top: 25px;
+}
+
+.form_main_3{
+    margin-top: 20px;
+}
+.form_main_4{
+    margin-top: 20px;
+}
+#level2{
+    margin-top: 6px;
+}
+#level1{
+    margin-top: 6px;
+}
+#tickets{
+    
+    height: 20px;
+}
+.last_main{
+    display: flex;
+}
+#lastp1{
+    width: 380px;
+}
+#lastp2{
+    padding-left: 250px;
+}
+#lastp3{
+    padding-left: 265px;
+    margin: 0;
+    
+
+}
+#lasthr{
+    width: 190px;
+    padding-left: 248px;
+    
+}
+/* .infocontainer{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+} */
+.event-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+}
+
+hr{
+    border: 1px solid black;
+}
+.s{
+  top: 0;
+  left: 0;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+  border-radius: 50%;
+}
+
+.lavel{
+    font-size: 15px;
+}
+.level-heading{
+    font-size: 20px;
+}
+#signatureimg{
+    padding-left: 290px;
+}
+.gender-main{
+    display: flex;
+}
+.gender-Female{
+    padding-left: 100px;
+}
+.choices-main{
+    display: flex;
+    justify-content: space-between;
+}
+.payment-main{
+    display: flex;
+    justify-content: space-between;
+}
+
+#infoContainer {
+    display: flex;
+    flex-direction: column;
+    gap: px;
+}
+#infoContainer div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+#infoContainer div p {
+    width: 200px;
+    font-size: 15px;
+    font-weight: 600;
+}
+#infoContainer div span {
+    font-size: 14px;
+    font-weight: 500;
+}
